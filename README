@@ -1,0 +1,9 @@
+This is my personal list of banned subdomains for projects that allow customers to choose their own subdomain.
+
+Feel free to contribute to this list! The more the better! Fork and do a pull request with your updates.
+
+Try to separate out lists. I'll further refine my own in the future.
+
+Sometime in the future I'll add another list of subdomains related to Fortune 500 companies. (The idea being that you'll probably want to make sure somebody that's not from Apple can't take apple.yourapp.com.)
+
+Feel free to fork/copy/whatever you want to do with this list. I release any data in this repository into the public domain, with the understanding that I take no responsibility for what is done with it, I provide no warranty or guarantee for anything, etc. Basically, if you fuck up, you can't blame me (and you agree to this by visiting this repo, using the contents of this repo, or thinking about using anything related to this repo in any way).
