@@ -4,6 +4,6 @@ Feel free to contribute to this list! The more the better! Fork and do a pull re
 
 Try to separate out lists. I'll further refine my own in the future.
 
-Sometime in the future I'll add another list of subdomains related to Fortune 500 companies. (The idea being that you'll probably want to make sure somebody that's not from Apple can't take apple.yourapp.com.)
+I've added the first of a few other lists, a list of the top 100 of Fortune 500 companies. The idea behind this list is to protect domains that will probably have a specific contract instead of using a signup form and credit card. By protecting these domains, you'll avoid issues where Apple wants to use your webapp but somebody else (possibly malicious) decided to use that domain instead. You'll probably want to use a different denial message with these (such as "This domain is reserved. Please contact our sales department for help registering this domain.").
 
 Feel free to fork/copy/whatever you want to do with this list. I release any data in this repository into the public domain, with the understanding that I take no responsibility for what is done with it, I provide no warranty or guarantee for anything, etc. Basically, if you fuck up, you can't blame me (and you agree to this by visiting this repo, using the contents of this repo, or thinking about using anything related to this repo in any way).
