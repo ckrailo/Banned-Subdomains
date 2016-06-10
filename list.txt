@@ -132,6 +132,7 @@ i
 image
 images
 img
+imap
 investor
 investors
 invoice
