@@ -163,6 +163,7 @@ maps
 media
 message
 messages
+mg
 misc
 mms
 mobile
